@@ -1,0 +1,1 @@
+More about magic numbers [here](https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_numbers_in_files) .
